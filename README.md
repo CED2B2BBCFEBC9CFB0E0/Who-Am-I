@@ -1,2 +1,13 @@
 # Who-Am-I
 TEST View 
+# Hi, I'm vt_0x0 👋
+I build automation tools, experiment with Python/PyQt, and explore information security.
+
+## 🔗 Links
+- [GitHub](https://github.com/vt0x0)
+- [Notion](#)
+- [Instagram](#)
+
+## 🧠 Projects
+- Automation Toolkit
+- Reverse Engineering Playground
